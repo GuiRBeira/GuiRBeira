@@ -35,6 +35,15 @@
 - **Validação experimental:** Resolução do problema XOR com 570k épocas
 - **Implementação do zero:** 70+ funções matemáticas, sem dependências externas
 
+### ⚙️ Simulador de Escalonamento de Processos
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)]()
+[![GTK](https://img.shields.io/badge/GTK-7C9AA6?style=flat&logo=gtk&logoColor=white)]()
+
+**Simulador de algoritmos de escalonamento de CPU com interface GTK**
+- Implementação em C puro de Round Robin, SJF, Priority Scheduling
+- Interface gráfica educativa para aprendizado de Sistemas Operacionais
+- Build system com CMake e scripts de automação
+
 ## 🤖 WhatsApp Bot - Automação com Infraestrutura Cloud (Em desenvolvimento)
 
 **Projeto pessoal focado em resolver problemas reais através de automação**
