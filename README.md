@@ -77,7 +77,7 @@
 - Arquitetura cloud-first com deploy acessível ao público brasileiro
 
 ### 🌞 Painel Solar Inteligente  
-*Previsão: 2024 | Stack: C++, Arduino, Sensores, Impressão 3D*
+*Previsão: 2025 | Stack: C++, Arduino, Sensores, Impressão 3D*
 - Sistema embarcado para otimização de captação de energia solar
 - Rastreamento bi-axial automático baseado em sensores de luz
 - Prototipagem completa com peças customizadas em 3D
